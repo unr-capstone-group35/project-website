@@ -11,7 +11,9 @@
         Team 35: Tyler Olson, Matt Stanley, and Jason Parmar
       </p>
       <p class="text-xl">Instructors: David Feil-Seifer and Sara Davis</p>
-      <p class="text-xl">External Advisor: Eric Olson</p>
+      <p class="text-xl">
+        External Advisor: Eric Olson - Senior DevOps Engineer at Figure Markets
+      </p>
     </div>
     <br />
     <div>
